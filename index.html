@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rosca y Votos - Deckbuilder</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header>
+        <h1>Rosca y Votos</h1>
+        <p>Deckbuilder satírico de política argentina.</p>
+      </header>
+
+      <section class="how-to-play" aria-label="Cómo jugar">
+        <h2>¿Cómo se juega?</h2>
+        <ol>
+          <li>Jugá cartas de <strong>Tu mano</strong> con el botón <em>Jugar carta</em>.</li>
+          <li>Con la <strong>influencia</strong> acumulada comprá cartas del <strong>Mercado</strong>.</li>
+          <li>Cuando termines, tocá <strong>Terminar turno</strong> para robar 5 cartas nuevas.</li>
+          <li>Sobreviví 12 turnos sin llegar a 15 de tensión social.</li>
+          <li>Al final del turno 12 ganás si llegás a 20+ de popularidad.</li>
+        </ol>
+      </section>
+
+      <section class="status" aria-label="Estado de la partida">
+        <div><strong>Turno:</strong> <span id="turn">1</span>/12</div>
+        <div><strong>Popularidad:</strong> <span id="popularity">5</span></div>
+        <div><strong>Tensión social:</strong> <span id="unrest">0</span></div>
+        <div><strong>Caja política:</strong> <span id="treasury">0</span></div>
+        <div><strong>Influencias:</strong> <span id="influence">0</span></div>
+      </section>
+
+      <section>
+        <h2>Tu mano</h2>
+        <div id="hand" class="card-grid"></div>
+      </section>
+
+      <section>
+        <h2>Mercado</h2>
+        <div id="market" class="card-grid"></div>
+      </section>
+
+      <section class="actions">
+        <button id="endTurnButton">Terminar turno</button>
+        <button id="restartButton">Reiniciar partida</button>
+      </section>
+
+      <section>
+        <h2>Registro</h2>
+        <ul id="log" class="log"></ul>
+      </section>
+    </main>
+
+    <template id="cardTemplate">
+      <article class="card">
+        <h3 class="card-title"></h3>
+        <p class="card-cost"></p>
+        <p class="card-text"></p>
+        <button class="card-action"></button>
+      </article>
+    </template>
+
+    <script src="script.js"></script>
+  </body>
+</html>
