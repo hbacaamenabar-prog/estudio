@@ -2,13 +2,18 @@
 
 Mini deckbuilder web con temática de política argentina.
 
-## Cómo jugar
+## Cómo jugar (rápido)
 
-- Jugás cartas de tu mano para ganar **popularidad**, **influencia** y manejar la **tensión social**.
-- Con la influencia comprás cartas del mercado para fortalecer tu mazo.
-- La partida dura 12 turnos.
-- **Ganás** si al final llegás con 20 o más de popularidad.
-- **Perdés** si la tensión social llega a 15.
+1. Abrí el juego en tu navegador.
+2. En **Tu mano**, hacé click en **Jugar carta** para activar efectos.
+3. Juntá **influencia** para comprar cartas del **Mercado**.
+4. Hacé click en **Terminar turno** para descartar la mano y robar 5 cartas nuevas.
+5. Repetí hasta llegar al turno 12.
+
+## Objetivo
+
+- **Ganás** si al final del turno 12 tenés **20 o más de popularidad**.
+- **Perdés** si la **tensión social** llega a **15** en cualquier momento.
 
 ## Ejecutar
 
