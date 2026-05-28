@@ -1,0 +1,90 @@
+[
+  {
+    "chamber": "diputados",
+    "session": "3ª Sesión Ordinaria",
+    "date": "2024-04-10",
+    "speaker": "Ana Gómez",
+    "party": "Bloque Unidad Federal",
+    "province": "Córdoba",
+    "text": "Señor presidente, vengo a defender el proyecto de presupuesto educativo. No podemos seguir postergando la inversión en las escuelas públicas de nuestras provincias. Cada peso que destinamos a la educación es una inversión en el futuro productivo del país y en la igualdad de oportunidades de nuestros niños y niñas.",
+    "source_url": "https://example.org/demo/diputados/2024-04-10#gomez",
+    "source_id": "demo-dip-0001"
+  },
+  {
+    "chamber": "diputados",
+    "session": "3ª Sesión Ordinaria",
+    "date": "2024-04-10",
+    "speaker": "Roberto Díaz",
+    "party": "Interbloque Producción",
+    "province": "Santa Fe",
+    "text": "El sector agropecuario es el motor de las exportaciones argentinas. Reducir las retenciones no es un privilegio sectorial, es una política de desarrollo que genera empleo en el interior y dinamiza las economías regionales. Pido a esta Cámara que acompañe el dictamen de mayoría.",
+    "source_url": "https://example.org/demo/diputados/2024-04-10#diaz",
+    "source_id": "demo-dip-0002"
+  },
+  {
+    "chamber": "diputados",
+    "session": "5ª Sesión Ordinaria",
+    "date": "2024-06-05",
+    "speaker": "Lucía Fernández",
+    "party": "Bloque Frente Social",
+    "province": "Buenos Aires",
+    "text": "Hablemos de salud pública. El presupuesto hospitalario está congelado mientras la inflación erosiona la capacidad de compra de insumos médicos. Exijo que se garantice la provisión de medicamentos oncológicos y que no se desfinancie el sistema de atención primaria.",
+    "source_url": "https://example.org/demo/diputados/2024-06-05#fernandez",
+    "source_id": "demo-dip-0003"
+  },
+  {
+    "chamber": "diputados",
+    "session": "5ª Sesión Ordinaria",
+    "date": "2024-06-05",
+    "speaker": "Martín Suárez",
+    "party": "Interbloque Producción",
+    "province": "Mendoza",
+    "text": "La matriz energética del país necesita previsibilidad. La inversión en Vaca Muerta y en energías renovables requiere reglas estables por veinte años. Sin seguridad jurídica no hay desarrollo energético posible, y sin energía competitiva no hay industria.",
+    "source_url": "https://example.org/demo/diputados/2024-06-05#suarez",
+    "source_id": "demo-dip-0004"
+  },
+  {
+    "chamber": "senado",
+    "session": "4ª Sesión Ordinaria",
+    "date": "2024-05-22",
+    "speaker": "Patricia Romero",
+    "party": "Bloque Unidad Federal",
+    "province": "Salta",
+    "text": "Señora presidenta, el federalismo fiscal es una deuda pendiente. La coparticipación debe revisarse para que las provincias del norte dejen de recibir migajas. No es posible que la concentración de recursos en el área central condene al atraso a regiones enteras.",
+    "source_url": "https://example.org/demo/senado/2024-05-22#romero",
+    "source_id": "demo-sen-0001"
+  },
+  {
+    "chamber": "senado",
+    "session": "4ª Sesión Ordinaria",
+    "date": "2024-05-22",
+    "speaker": "Jorge Medina",
+    "party": "Bloque Frente Social",
+    "province": "Tucumán",
+    "text": "La obra pública no es gasto, es inversión. Las rutas, los acueductos y las escuelas que construimos son el andamiaje del desarrollo. Frenar la obra pública significa más desempleo y más recesión en las provincias que más lo necesitan.",
+    "source_url": "https://example.org/demo/senado/2024-05-22#medina",
+    "source_id": "demo-sen-0002"
+  },
+  {
+    "chamber": "senado",
+    "session": "6ª Sesión Ordinaria",
+    "date": "2024-07-18",
+    "speaker": "Elena Castro",
+    "party": "Interbloque Producción",
+    "province": "Neuquén",
+    "text": "El régimen de incentivo a las grandes inversiones busca atraer capitales para el sector energético y minero. Pero debemos garantizar que ese desarrollo respete el ambiente y a las comunidades. Crecimiento económico y cuidado ambiental no son objetivos contradictorios.",
+    "source_url": "https://example.org/demo/senado/2024-07-18#castro",
+    "source_id": "demo-sen-0003"
+  },
+  {
+    "chamber": "senado",
+    "session": "6ª Sesión Ordinaria",
+    "date": "2024-07-18",
+    "speaker": "Hugo Paredes",
+    "party": "Bloque Unidad Federal",
+    "province": "Chaco",
+    "text": "La educación pública y gratuita es un pilar de la movilidad social. Financiar las universidades nacionales no es un gasto discrecional: es cumplir con un mandato constitucional. Defiendo el presupuesto universitario porque defiendo el ascenso social de los hijos de los trabajadores.",
+    "source_url": "https://example.org/demo/senado/2024-07-18#paredes",
+    "source_id": "demo-sen-0004"
+  }
+]
